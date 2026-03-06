@@ -1,5 +1,6 @@
 # Learning Diary
 A C# learning diary where I practice every day, starting from the basics and slowly moving into more advanced topics.
+Completion: 1.67%
 
 
 
