@@ -23,8 +23,6 @@ Today I set up the GitHub repository and completed 4 console tasks.
 Today felt productive: I learned new things and revised what I already knew. 
 I’m not focusing on input validation/error handling yet. I’ll add that later once the basics feel comfortable.
 
-
-
 # DAY 2
 Today I completed 8 console tasks and practiced how programs make decisions.
 
