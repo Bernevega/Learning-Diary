@@ -1,8 +1,8 @@
 # Learning Diary
 A C# learning diary where I practice every day, starting from the basics and slowly moving into more advanced topics.
 
-### Progress: Day 3 / 365
-### Completion: 0.82%
+### Progress: Day 4 / 365
+### Completion: 1.1%
 
 # DAY 1
 Today I set up the GitHub repository and completed 4 console tasks.
@@ -91,3 +91,54 @@ Today I practiced loops in C#.
 
 ### Conclusion
 Today I learned how loops work in C# and how to use them to repeat actions automatically. I also practiced combining loops with input, output, and conditions.
+
+# DAY 4
+Today I practiced methods in C# and completed the Day 4 console tasks.
+
+## Task 1
+- Created a basic void method;
+- Practiced calling a method from Main().
+
+## Task 2
+- Practiced methods with parameters;
+- Used a string parameter to print a personalized message.
+
+## Task 3
+- Practiced methods with multiple parameters;
+- Used a method to calculate and print a sum.
+
+## Task 4
+- Learned how to return a value from a method;
+- Practiced storing the returned result in a variable.
+
+## Task 5
+- Practiced returning calculated values from methods;
+- Used a method to return the square of a number.
+
+## Task 6
+- Practiced methods that return bool;
+- Used % to check whether a number is even.
+
+## Task 7
+- Practiced using if / else if / else inside a method;
+- Returned a string value based on age categories.
+
+## Task 8
+- Combined user input with methods;
+- Separated calculation logic from Main().
+
+## Task 9
+- Practiced returning and combining strings;
+- Used a method to create a full name.
+
+## Task 10
+- Practiced returning clothing advice based on temperature;
+- Noticed a small range mistake and fixed it after review.
+
+## Task 11
+- Combined multiple methods in one program;
+- Practiced reusing methods for different calculations.
+
+### Conclusion
+Today I got comfortable with the basics of methods and understood the difference between void methods and methods that return values.
+I also practiced parameters, return values, and organizing code into smaller reusable parts.
