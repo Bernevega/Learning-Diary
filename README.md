@@ -1,8 +1,8 @@
 # Learning Diary
 A C# learning diary where I practice every day, starting from the basics and slowly moving into more advanced topics.
 
-### Progress: Day 4 / 365
-### Completion: 1.1%
+### Progress: Day 5 / 365
+### Completion: 1.37%
 
 # DAY 1
 Today I set up the GitHub repository and completed 4 console tasks.
@@ -142,3 +142,46 @@ Today I practiced methods in C# and completed the Day 4 console tasks.
 ### Conclusion
 Today I got comfortable with the basics of methods and understood the difference between void methods and methods that return values.
 I also practiced parameters, return values, and organizing code into smaller reusable parts.
+
+# DAY 5
+Today I completed 9 console tasks about arrays.
+
+## Task 1
+- Practiced creating an integer array;
+- Practiced printing array values with a for loop.
+
+## Task 2
+- Practiced accessing specific array elements by index;
+- Learned how to print the first and last value of an array.
+
+## Task 3
+- Practiced changing values inside an array;
+- Learned that printing an array variable directly shows its type, not its contents.
+
+## Task 4
+- Practiced using .Length;
+- Learned how to check how many elements an array has.
+
+## Task 5
+- Practiced looping through an array and summing all values;
+- Revised using a variable to store a running total.
+
+## Task 6
+- Practiced finding the largest number in an array;
+- Learned how to compare values while looping.
+
+## Task 7
+- Practiced creating an empty array with new int[5];
+- Learned how to read user input and store it into array positions one by one.
+
+## Task 8
+- Practiced checking numbers in an array with conditions;
+- Learned how to count how many values are even.
+
+## Task 9
+- Combined arrays, loops, user input, sum calculation, and largest-value checking in one task;
+- Also learned the difference between Console.Write() and Console.WriteLine() more clearly.
+
+### Conclusion
+I learned how arrays work, how indexing works, how to loop through arrays, and how to calculate values from array contents. 
+I also understood better how console output formatting works when using Write() and WriteLine().
