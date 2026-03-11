@@ -1,8 +1,8 @@
 # Learning Diary
 A C# learning diary where I practice every day, starting from the basics and slowly moving into more advanced topics.
 
-### Progress: Day 6 / 365
-### Completion: 1.64%
+### Progress: Day 7 / 365
+### Completion: 1.92%
 
 # DAY 1
 Today I set up the GitHub repository and completed 4 console tasks.
@@ -195,3 +195,58 @@ Today was important because I started rebuilding my C# foundation properly inste
 I revised the earliest topics in much greater depth and also paid attention to small code quality details like clearer naming, 
 correct constant naming style, accurate output wording, and correct spelling in printed text.
 
+# DAY 7
+Today I completed 12 console tasks about arrays in more detail.
+## Task 1
+- Practiced creating an integer array with chosen values;
+- Practiced printing all array values with a for loop;
+- Practiced printing the first and last value of an array.
+## Task 2
+- Practiced creating a string array;
+- Practiced printing each value with a foreach loop;
+- Learned more about arrays storing text, not only numbers.
+## Task 3
+- Practiced changing values inside an array;
+- Revised accessing array elements by index;
+- Practiced printing array contents before and after changes.
+## Task 4
+- Practiced reading user input into an array;
+- Practiced storing entered values one by one;
+- Practiced printing all entered numbers and calculating their sum.
+## Task 5
+- Practiced finding the largest number in an array;
+- Practiced finding the smallest number in an array;
+- Revised comparing values while looping through an array.
+## Task 6
+- Practiced checking array values with conditions;
+- Practiced counting even and odd numbers;
+- Revised using % 2 == 0.
+## Task 7
+- Practiced printing array indexes together with values;
+- Learned more clearly when a for loop is better than foreach;
+- Practiced displaying index and value in the same output line.
+## Task 8
+- Practiced sorting an array with Array.Sort();
+- Practiced reversing an array with Array.Reverse();
+- Learned how built-in array methods change the original array.
+## Task 9
+- Practiced searching for a value in an array;
+- Learned how to use Array.IndexOf();
+- Practiced checking whether a value exists or not.
+## Task 10
+- Practiced clearing elements in an array with Array.Clear();
+- Learned that cleared integer values become default values;
+- Practiced printing the array before and after clearing elements.
+## Task 11
+- Practiced sorting and reversing a string array;
+- Learned that array methods also work with strings;
+- Revised printing array values multiple times after changes.
+## Task 12
+- Practiced creating an array with a size chosen by the user;
+- Practiced filling the array dynamically with input;
+- Practiced printing all values and calculating the total sum.
+### Conclusion
+Today I went deeper into arrays and practiced much more than just basic indexing and .Length. 
+I worked with both integer and string arrays, used both for and foreach, and learned when each loop is more useful. 
+I also practiced important built-in array tools like sorting, reversing, searching, and clearing, 
+while continuing to strengthen my understanding of input, loops, and working with multiple values in one structure.
