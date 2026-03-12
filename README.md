@@ -250,3 +250,46 @@ Today I went deeper into arrays and practiced much more than just basic indexing
 I worked with both integer and string arrays, used both for and foreach, and learned when each loop is more useful. 
 I also practiced important built-in array tools like sorting, reversing, searching, and clearing, 
 while continuing to strengthen my understanding of input, loops, and working with multiple values in one structure.
+
+# DAY 8
+Today I completed 12 console tasks about nested loops and 2D arrays.
+## Task 1
+- Practiced creating and printing a 2D array as a grid;
+- Learned how nested loops move through rows and columns.
+## Task 2
+- Practiced accessing specific values in a 2D array by using row and column indexes;
+- Revised how first, last, and other positions are found in a grid.
+## Task 3
+- Practiced creating an empty 2D array with a fixed size;
+- Learned how to assign values manually into specific row and column positions.
+## Task 4
+- Practiced filling a 2D array with user input;
+- Learned how to use nested loops to read values into a grid.
+## Task 5
+- Practiced summing all values inside a 2D array;
+- Revised how to use a running total with nested loops.
+## Task 6
+- Practiced finding the biggest and smallest values in a 2D array;
+- Learned how to compare values while looping through a grid.
+## Task 7
+- Practiced printing each 2D array value together with its position;
+- Learned how indexes and values connect inside a grid.
+## Task 8
+- Practiced searching for a target value in a 2D array;
+- Learned how to store and print the row and column of a found value.
+## Task 9
+- Practiced checking values in a 2D array with conditions;
+- Learned how to count even and odd numbers in a grid.
+## Task 10
+- Practiced calculating the sum of each row separately;
+- Learned how the outer loop can control which row is currently being processed.
+## Task 11
+- Practiced working toward calculating the sum of each column separately;
+- Revised the idea that row-based and column-based logic use nested loops differently.
+## Task 12
+- Practiced finding the biggest value and its position in a 2D array;
+- Learned how to track both the value and its row and column while looping.
+### Conclusion
+Today felt very productive: I learned how nested loops really work and created 2D arrays for the first time. 
+I now understand much better how rows and columns are accessed, how grids are printed, 
+and how nested loops can be used to search, count, and calculate inside 2D arrays.
