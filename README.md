@@ -293,3 +293,30 @@ Today I completed 12 console tasks about nested loops and 2D arrays.
 Today felt very productive: I learned how nested loops really work and created 2D arrays for the first time. 
 I now understand much better how rows and columns are accessed, how grids are printed, 
 and how nested loops can be used to search, count, and calculate inside 2D arrays.
+
+# DAY 9
+Today I completed 7 console tasks about useful array tools and light array revision.
+## Task 1
+- Practiced creating a string array;
+- Practiced printing array values with a for loop.
+## Task 2
+- Practiced printing array values with foreach;
+- Learned the difference between for and foreach for arrays.
+## Task 3
+- Practiced using Array.IndexOf();
+- Learned that it returns -1 when the value is not found.
+## Task 4
+- Practiced using Array.Sort();
+- Learned that sorting changes the original array.
+## Task 5
+- Practiced using Array.Reverse();
+- Learned how to print the changed array after reversing it.
+## Task 6
+- Practiced sorting an array and then reading specific values from it;
+- Learned how to get the smallest and biggest value after sorting.
+## Task 7
+- Practiced filling an array with user input;
+- Combined input, printing, sorting, and finding the smallest and biggest values.
+### Conclusion
+Today was a nice and easy practice day. I learned a tiny bit more, but mostly I was revising 
+and strengthening what I already know. It felt light and manageable, which was good for a tired day.
