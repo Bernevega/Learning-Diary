@@ -1,8 +1,8 @@
 # Learning Diary
 A C# learning diary where I practice every day, starting from the basics and slowly moving into more advanced topics.
 
-### Progress: Day 7 / 365
-### Completion: 1.92%
+### Progress: Day 9 / 365
+### Completion: 2.47%
 
 # DAY 1
 Today I set up the GitHub repository and completed 4 console tasks.
