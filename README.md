@@ -1,8 +1,8 @@
 # Learning Diary
 A C# learning diary where I practice every day, starting from the basics and slowly moving into more advanced topics.
 
-### Progress: Day 9 / 365
-### Completion: 2.47%
+### Progress: Day 10 / 365
+### Completion: 2.74%
 
 # DAY 1
 Today I set up the GitHub repository and completed 4 console tasks.
@@ -320,3 +320,45 @@ Today I completed 7 console tasks about useful array tools and light array revis
 ### Conclusion
 Today was a nice and easy practice day. I learned a tiny bit more, but mostly I was revising 
 and strengthening what I already know. It felt light and manageable, which was good for a tired day.
+
+# DAY 10
+Today I completed 12 console tasks about strings.
+## Task 1
+- Practiced creating string variables;
+- Practiced printing text values to the console.
+## Task 2
+- Practiced joining strings together;
+- Learned how to combine first name and last name into one text value.
+## Task 3
+- Practiced reading text input from the user;
+- Practiced using string interpolation to print multiple values in one sentence.
+## Task 4
+- Practiced using .Length with strings;
+- Learned how to check how many characters a word contains.
+## Task 5
+- Practiced accessing characters by index;
+- Learned how to print the first and last character of a word.
+## Task 6
+- Practiced changing text case;
+- Learned how to use .ToUpper() and .ToLower().
+## Task 7
+- Practiced removing extra spaces from text;
+- Learned how .Trim() changes both the text and its length.
+## Task 8
+- Practiced checking whether text contains specific content;
+- Learned how to use .Contains().
+## Task 9
+- Practiced checking how text begins and ends;
+- Learned how to use .StartsWith() and .EndsWith().
+## Task 10
+- Practiced replacing part of a string with different text;
+- Learned how to use .Replace().
+## Task 11
+- Practiced using escape characters in strings;
+- Learned how to print a new line with \n and quotation marks with \".
+## Task 12
+- Practiced combining multiple string features in one program;
+- Revised length, indexing, uppercase, and lowercase together.
+### Conclusion
+Today was a good revision and practice day. I learned more about what strings can do in C#, 
+especially how to check, change, and analyze text in different ways.

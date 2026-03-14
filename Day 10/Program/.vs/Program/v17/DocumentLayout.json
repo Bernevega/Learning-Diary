@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|c:\\users\\anna\\desktop\\learning-diary\\day 10\\program\\task12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|solutionrelative:task12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|c:\\users\\anna\\desktop\\learning-diary\\day 10\\program\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|c:\\users\\anna\\desktop\\learning-diary\\day 10\\program\\task11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|solutionrelative:task11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|c:\\users\\anna\\desktop\\learning-diary\\day 10\\program\\task10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|solutionrelative:task10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|c:\\users\\anna\\desktop\\learning-diary\\day 10\\program\\task9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|solutionrelative:task9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|c:\\users\\anna\\desktop\\learning-diary\\day 10\\program\\task8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|solutionrelative:task8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|c:\\users\\anna\\desktop\\learning-diary\\day 10\\program\\task7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|solutionrelative:task7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|c:\\users\\anna\\desktop\\learning-diary\\day 10\\program\\task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|solutionrelative:task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|c:\\users\\anna\\desktop\\learning-diary\\day 10\\program\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|solutionrelative:task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|c:\\users\\anna\\desktop\\learning-diary\\day 10\\program\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|solutionrelative:task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|c:\\users\\anna\\desktop\\learning-diary\\day 10\\program\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|solutionrelative:task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|c:\\users\\anna\\desktop\\learning-diary\\day 10\\program\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|solutionrelative:task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|c:\\users\\anna\\desktop\\learning-diary\\day 10\\program\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|solutionrelative:task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task12.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task12.cs",
+              "RelativeDocumentMoniker": "Task12.cs",
+              "ToolTip": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task12.cs",
+              "RelativeToolTip": "Task12.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T13:05:10.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task11.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task11.cs",
+              "RelativeDocumentMoniker": "Task11.cs",
+              "ToolTip": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task11.cs",
+              "RelativeToolTip": "Task11.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T13:04:19.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task10.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task10.cs",
+              "RelativeDocumentMoniker": "Task10.cs",
+              "ToolTip": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task10.cs",
+              "RelativeToolTip": "Task10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T13:01:37.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task9.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task9.cs",
+              "RelativeDocumentMoniker": "Task9.cs",
+              "ToolTip": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task9.cs",
+              "RelativeToolTip": "Task9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T12:59:22.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task8.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task8.cs",
+              "RelativeDocumentMoniker": "Task8.cs",
+              "ToolTip": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task8.cs",
+              "RelativeToolTip": "Task8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T12:57:18.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task7.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task7.cs",
+              "RelativeDocumentMoniker": "Task7.cs",
+              "ToolTip": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task7.cs",
+              "RelativeToolTip": "Task7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T14:03:33.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task6.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task6.cs",
+              "RelativeDocumentMoniker": "Task6.cs",
+              "ToolTip": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task6.cs",
+              "RelativeToolTip": "Task6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T11:43:36.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task5.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task5.cs",
+              "RelativeDocumentMoniker": "Task5.cs",
+              "ToolTip": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task5.cs",
+              "RelativeToolTip": "Task5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T11:41:46.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Task4.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task4.cs",
+              "RelativeDocumentMoniker": "Task4.cs",
+              "ToolTip": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task4.cs",
+              "RelativeToolTip": "Task4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T11:10:14.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Task1.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task1.cs",
+              "RelativeDocumentMoniker": "Task1.cs",
+              "ToolTip": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task1.cs",
+              "RelativeToolTip": "Task1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T10:56:40.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Task3.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task3.cs",
+              "RelativeDocumentMoniker": "Task3.cs",
+              "ToolTip": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task3.cs",
+              "RelativeToolTip": "Task3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T11:09:02.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Task2.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task2.cs",
+              "RelativeDocumentMoniker": "Task2.cs",
+              "ToolTip": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Task2.cs",
+              "RelativeToolTip": "Task2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T11:06:14.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 10\\Program\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T11:05:19.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
