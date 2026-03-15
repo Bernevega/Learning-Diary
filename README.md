@@ -1,8 +1,8 @@
 # Learning Diary
 A C# learning diary where I practice every day, starting from the basics and slowly moving into more advanced topics.
 
-### Progress: Day 10 / 365
-### Completion: 2.74%
+### Progress: Day 11 / 365
+### Completion: 3.01%
 
 # DAY 1
 Today I set up the GitHub repository and completed 4 console tasks.
@@ -362,3 +362,54 @@ Today I completed 12 console tasks about strings.
 ### Conclusion
 Today was a good revision and practice day. I learned more about what strings can do in C#, 
 especially how to check, change, and analyze text in different ways.
+
+# DAY 11
+Today I completed 15 console tasks about List<T>.
+## Task 1
+- Practiced creating a List<int> with values already inside it;
+- Practiced printing list values with a for loop.
+## Task 2
+- Practiced accessing the first and last items in a list by index;
+- Revised using .Count to find the last position.
+## Task 3
+- Practiced creating an empty list;
+- Learned how to add values one by one with Add().
+## Task 4
+- Practiced changing a value inside a list by index;
+- Learned that list items can be replaced directly.
+## Task 5
+- Practiced checking how many items a list has;
+- Revised the difference between .Count for lists and .Length for arrays.
+## Task 6
+- Practiced removing an item from a list by value;
+- Learned how Remove() changes the list contents.
+## Task 7
+- Practiced removing an item from a list by index;
+- Revised how indexes shift after removing an item.
+## Task 8
+- Practiced checking whether a value exists in a list;
+- Learned how to use Contains() for simple checks.
+## Task 9
+- Practiced placing a new item into a specific position in a list;
+- Learned more about how Insert() works with indexes.
+## Task 10
+- Practiced printing list items with foreach;
+- Learned that foreach gives each value directly instead of using indexes.
+## Task 11
+- Practiced summing all numbers in a list;
+- Revised using a running total while looping.
+## Task 12
+- Practiced combining multiple list actions in one program;
+- Revised adding, removing, printing, and counting items in a list.
+## Task 13
+- Practiced finding the largest number in a list;
+- Revised comparing values while looping through data.
+## Task 14
+- Practiced counting how many times a word appears in a list;
+- Learned how to check repeated values one by one.
+## Task 15
+- Practiced reading user input into a list;
+- Learned more clearly when to use Add() instead of assigning by index in an empty list.
+### Conclusion
+Today was very useful because I learned how List<T> works and how it differs from arrays. I never used lists before.
+I practiced adding, removing, inserting, checking, and looping through dynamic collections.
