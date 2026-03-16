@@ -1,8 +1,8 @@
 # Learning Diary
 A C# learning diary where I practice every day, starting from the basics and slowly moving into more advanced topics.
 
-### Progress: Day 11 / 365
-### Completion: 3.01%
+### Progress: Day 12 / 365
+### Completion: 3.29%
 
 # DAY 1
 Today I set up the GitHub repository and completed 4 console tasks.
@@ -413,3 +413,46 @@ Today I completed 15 console tasks about List<T>.
 ### Conclusion
 Today was very useful because I learned how List<T> works and how it differs from arrays. I never used lists before.
 I practiced adding, removing, inserting, checking, and looping through dynamic collections.
+
+# DAY 12
+Today I completed 12 console tasks about classes and objects.
+## Task 1
+- Practiced creating my first custom class;
+- Learned how to make an object and assign values to its fields.
+## Task 2
+- Practiced creating multiple objects from the same class;
+- Learned that each object can store different values.
+## Task 3
+- Practiced adding a method inside a class;
+- Learned how an object can print its own information with that method.
+## Task 4
+- Practiced working with several objects of the same class;
+- Revised calling methods on multiple different instances.
+## Task 5
+- Practiced making a class with both data and behavior;
+- Learned how methods like Bark() can use the object’s field values.
+## Task 6
+- Practiced designing a simple game-related class;
+- Learned how to group character stats and actions inside one object.
+## Task 7
+- Practiced storing user input inside an object;
+- Learned how classes can be combined with Console.ReadLine() and parsing.
+## Task 8
+- Practiced changing an object’s data through a method;
+- Learned how calling a method can update field values.
+## Task 9
+- Practiced comparing field values from two different objects;
+- Revised using if statements with object data.
+## Task 10
+- Practiced combining arrays with classes;
+- Learned how to create an array of objects and loop through it.
+## Task 11
+- Practiced making a method that changes a value inside an object;
+- Learned more clearly how objects can update their own state.
+## Task 12
+- Practiced making a method that returns a value;
+- Learned how to use return to calculate and then print an object’s result.
+### Conclusion
+Today I learned the basics of classes and objects in C#. I practiced creating custom types, making objects with new, 
+assigning values to fields, and calling methods on those objects.
+I also learned how classes can work together with earlier topics like arrays, conditions, methods, and user input.
