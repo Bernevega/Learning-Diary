@@ -456,3 +456,40 @@ Today I completed 12 console tasks about classes and objects.
 Today I learned the basics of classes and objects in C#. I practiced creating custom types, making objects with new, 
 assigning values to fields, and calling methods on those objects.
 I also learned how classes can work together with earlier topics like arrays, conditions, methods, and user input.
+
+# DAY 13
+Today I completed 10 console tasks about constructors, properties, and encapsulation.
+## Task 1
+- Practiced creating a constructor inside a class;
+- Learned how to pass values into an object at the moment it is created.
+## Task 2
+- Practiced creating multiple objects with the same constructor;
+- Learned that each object can store different values even when they come from the same class.
+## Task 3
+- Practiced using auto-properties with 'get; set;';
+- Learned that properties can be used like normal values from outside the class.
+## Task 4
+- Practiced combining properties with a constructor;
+- Learned how constructor parameters can be assigned into properties.
+## Task 5
+- Practiced using properties, constructors, and a method in the same class;
+- Learned how an object method can print the object's own information.
+## Task 6
+- Practiced making a private field and a public property;
+- Learned how 'set' can be used to block invalid values.
+## Task 7
+- Practiced using 'private set';
+- Learned that a value can be readable from outside the class but only changeable inside the class itself.
+## Task 8
+- Practiced validation inside a property with a rule for minimum temperature;
+- Learned how a property can protect data from impossible values.
+## Task 9
+- Practiced making a property with only 'get';
+- Learned that a property can calculate and return a value instead of storing it directly.
+## Task 10
+- Practiced combining constructor, properties, validation, private fields, and methods in one class;
+- Revised how encapsulation helps control and protect object data.
+### Conclusion
+Today I learned more about how classes can control their own data. I think I understand constructors quite well now, 
+especially how they set starting values when an object is created. I also practiced 'get' and 'set', private fields, validation, and 'private set', 
+but I still need more practice with fully understanding how properties work behind the scenes.
