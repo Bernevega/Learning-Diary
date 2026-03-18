@@ -1,8 +1,8 @@
 # Learning Diary
 A C# learning diary where I practice every day, starting from the basics and slowly moving into more advanced topics.
 
-### Progress: Day 12 / 365
-### Completion: 3.29%
+### Progress: Day 14 / 365
+### Completion: 3.84%
 
 # DAY 1
 Today I set up the GitHub repository and completed 4 console tasks.
@@ -493,3 +493,39 @@ Today I completed 10 console tasks about constructors, properties, and encapsula
 Today I learned more about how classes can control their own data. I think I understand constructors quite well now, 
 especially how they set starting values when an object is created. I also practiced 'get' and 'set', private fields, validation, and 'private set', 
 but I still need more practice with fully understanding how properties work behind the scenes.
+
+# DAY 14
+Today I completed 9 console tasks about constructors and properties, with extra focus on get and set.
+## Task 1
+- Practiced creating a class with one property;
+- Practiced setting a property value and reading it back.
+## Task 2
+- Practiced using multiple properties in one class;
+- Practiced storing and printing several values from an object.
+## Task 3
+- Practiced changing a property after object creation;
+- Learned that properties can be updated later, not only when the object is created.
+## Task 4
+- Practiced combining properties with a constructor;
+- Learned how a constructor can assign starting values to properties.
+## Task 5
+- Practiced using a constructor for one value and a property for another;
+- Understood better how constructors and properties can work together.
+## Task 6
+- Practiced taking user input and storing it into properties;
+- Practiced adding validation so invalid values are not accepted.
+## Task 7
+- Practiced writing a full manual property with a private field, get, and set;
+- Learned more clearly what auto-properties hide in the background.
+## Task 8
+- Practiced using a property with validation logic;
+- Learned how set can control what values are allowed before saving them.
+## Task 9
+- Practiced making another validated property with user input;
+- Reinforced the difference between the private field and the incoming value inside set.
+### Conclusion
+Today I practiced properties in much more detail, especially how get and set work. I learned that get returns 
+the stored value and set receives a new value from outside and can check it before saving it. I also understood much better 
+how properties and constructors work together – constructors help give values when an object is created, while properties 
+let me control and change values later. After fixing my mistakes with value and the private field, 
+I now feel much more confident using constructors, properties, and validation inside setters.
