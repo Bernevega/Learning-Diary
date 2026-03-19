@@ -1,8 +1,8 @@
 # Learning Diary
 A C# learning diary where I practice every day, starting from the basics and slowly moving into more advanced topics.
 
-### Progress: Day 14 / 365
-### Completion: 3.84%
+### Progress: Day 15 / 365
+### Completion: 4.11%
 
 # DAY 1
 Today I set up the GitHub repository and completed 4 console tasks.
@@ -529,3 +529,56 @@ the stored value and set receives a new value from outside and can check it befo
 how properties and constructors work together – constructors help give values when an object is created, while properties 
 let me control and change values later. After fixing my mistakes with value and the private field, 
 I now feel much more confident using constructors, properties, and validation inside setters.
+
+# DAY 15
+Today I completed 15 console tasks about instance methods and static methods.
+## Task 1
+- Practiced creating a class with a property and constructor;
+- Practiced calling an instance method from an object.
+## Task 2
+- Practiced storing object data like name and age;
+- Practiced using an instance method to print object information.
+## Task 3
+- Practiced creating multiple objects from the same class;
+- Learned that the same instance method can work with different object values.
+## Task 4
+- Practiced making a class describe its own data;
+- Revised using properties inside an instance method.
+## Task 5
+- Practiced changing an object's value with an instance method;
+- Learned how methods can update object state.
+## Task 6
+- Practiced using methods to turn a value on and off;
+- Learned how instance methods can control an object's behavior.
+## Task 7
+- Practiced updating balance values with deposit and withdraw methods;
+- Revised how methods can modify data stored inside an object.
+## Task 8
+- Practiced creating multiple song objects;
+- Practiced calling the same instance method on different objects.
+## Task 9
+- Practiced using object values in a calculation;
+- Learned how an instance method can calculate and print a result.
+## Task 10
+- Practiced increasing a stored value through a method;
+- Revised that instance methods can repeatedly change object data.
+## Task 11
+- Practiced creating static methods in a class;
+- Learned how to return values from static methods and print them in Main.
+## Task 12
+- Practiced making a helper-style class with a static method;
+- Learned that static methods are useful when no object data is needed.
+## Task 13
+- Practiced writing a static conversion method;
+- Revised returning a calculated value from a method.
+## Task 14
+- Practiced combining instance methods and a static method in one class;
+- Learned more clearly when behavior belongs to the object and when it belongs to the class.
+## Task 15
+- Practiced deciding whether a method should be instance or static;
+- Strengthened understanding of the difference between object behavior and class-level behavior.
+### Conclusion
+Today I learned the difference between instance methods and static methods much more clearly. 
+I understood that instance methods belong to specific objects and usually work with that object's own data, 
+while static methods belong to the class itself and are used when no specific object is needed. 
+I also practiced changing object values through methods, returning values from methods, and calling methods in the correct way.
