@@ -1,8 +1,8 @@
 # Learning Diary
 A C# learning diary where I practice every day, starting from the basics and slowly moving into more advanced topics.
 
-### Progress: Day 15 / 365
-### Completion: 4.11%
+### Progress: Day 16 / 365
+### Completion: 4.38%
 
 # DAY 1
 Today I set up the GitHub repository and completed 4 console tasks.
@@ -582,3 +582,34 @@ Today I learned the difference between instance methods and static methods much 
 I understood that instance methods belong to specific objects and usually work with that object's own data, 
 while static methods belong to the class itself and are used when no specific object is needed. 
 I also practiced changing object values through methods, returning values from methods, and calling methods in the correct way.
+
+# DAY 16
+Today I completed 4 console tasks about classes, private fields, methods, and a bigger student grade program.
+## Task 1
+- Practiced creating a Person class with a Name property and a private age field;
+- Practiced making a SetAge(int newAge) method that only changes the age if the value is 0 or more;
+- Practiced making a ShowInfo() method that prints the person's name and age;
+- Practiced testing the class with valid and invalid age values to see that a negative age does not replace the previous one.
+## Task 2
+- Practiced creating a BankAccount class with an Owner property and a private balance field;
+- Practiced making a Deposit(double amount) method that adds money only if the amount is positive;
+- Practiced making a Withdraw(double amount) method that removes money only when the amount is positive and small enough;
+- Practiced making a ShowBalance() method that prints the owner's name and current balance;
+- Practiced testing both successful and unsuccessful deposit and withdrawal cases.
+## Task 3
+- Practiced creating a Temperature class with a private celcius field;
+- Practiced making a SetTemperature(double temp) method that only accepts values from -100 to 100;
+- Practiced making a ShowTemperature() method that prints the current temperature;
+- Practiced testing the class with one valid temperature and one invalid temperature to see that the invalid value does not replace the saved one.
+## Task 4
+- Practiced creating a bigger Student class with Name and StudentId properties and a private List<int> for grades;
+- Practiced making an AddGrade(int grade) method that only accepts grades from 0 to 100;
+- Practiced making methods to calculate the average grade and find the highest and lowest grades;
+- Practiced making a HasPassed() method that checks whether the average is at least 50;
+- Practiced making a ShowGrades() method and a ShowReport() method that prints the full student information;
+- Practiced reading the student's name, ID, number of grades, and grade values from user input in the console;
+- Practiced showing the final full report after all grades were entered.
+### Conclusion
+Today I practiced using classes with private fields and methods to control how data is changed. 
+In the first three tasks I focused on smaller classes that stored one piece of information and updated it only when the value was valid. 
+In the fourth task I combined several ideas into one larger Student program with a list of grades, calculations, user input, and a full report.
