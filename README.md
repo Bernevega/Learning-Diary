@@ -1,8 +1,8 @@
 # Learning Diary
 A C# learning diary where I practice every day, starting from the basics and slowly moving into more advanced topics.
 
-### Progress: Day 16 / 365
-### Completion: 4.38%
+### Progress: Day 17 / 365
+### Completion: 4.66%
 
 # DAY 1
 Today I set up the GitHub repository and completed 4 console tasks.
@@ -613,3 +613,36 @@ Today I completed 4 console tasks about classes, private fields, methods, and a 
 Today I practiced using classes with private fields and methods to control how data is changed. 
 In the first three tasks I focused on smaller classes that stored one piece of information and updated it only when the value was valid. 
 In the fourth task I combined several ideas into one larger Student program with a list of grades, calculations, user input, and a full report.
+
+# DAY 17
+Today I completed 5 console tasks about the this keyword, class methods, and a shared List<Player>.
+## Task 1
+- Practiced creating a Player class with the properties Name, Health, Mana, and Level;
+- Practiced writing a constructor with parameters for all 4 values;
+- Practiced using this.Name, this.Health, this.Mana, and this.Level inside the constructor;
+- Created 2 different Player objects with different starting stats.
+## Task 2
+- Practiced making a PrintInfo() method;
+- Printed each player's name, health, mana, and level;
+- Called the method for both players to display their starting information.
+## Task 3
+- Practiced creating methods that change object data: TakeDamage(), Heal(), UseMana(), and RestoreMana();
+- Added checks so invalid amounts show error messages;
+- Improved UseMana() so mana cannot go below 0;
+- Improved TakeDamage() so health cannot go below 0 and a dead player cannot take damage again;
+- Tested all 4 methods on both player objects.
+## Task 4
+- Practiced creating a LevelUp() method;
+- Increased Level by 1, Health by 10, and Mana by 5 inside the method;
+- Called LevelUp() twice for player1 and once for player2;
+- Printed the players again after leveling up and changing their stats.
+## Task 5
+- Practiced creating a shared static List<Player>;
+- Added the 2 existing player objects into the list;
+- Added 1 more new Player directly into the list with Add(new Player(...));
+- Used a for loop to go through the full list and print every player's information;
+- Practiced accessing a class-level list with Player.players from another class.
+### Conclusion
+Today I practiced using "this" inside a constructor and understood more clearly that it refers to the current object. I 
+also practiced making class methods that modify object data like health, mana, and level, and I learned how a static 
+List<Player> can be shared by the whole class and filled from another class.
