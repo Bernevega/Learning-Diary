@@ -1,5 +1,25 @@
-### Progress: Day 18 / 365
-### Completion: 4.93%
+### Progress: Day 19 / 365
+### Completion: 5.21%
+
+# DAY 19
+Today I completed 3 console tasks about encapsulation in practice.
+## Task 1
+- Practiced creating a private field age inside a Person class;
+- Practiced controlling value changes with a SetAge(int newAge) method;
+- Practiced returning a private field value with a GetAge() method;
+- Tested both a valid age and an invalid age.
+## Task 2
+- Practiced creating a BankAccount class with a private balance field;
+- Practiced adding money through a public Deposit(double amount) method instead of changing the balance directly;
+- Added validation so only amounts greater than 0 are accepted;
+- Practiced displaying the balance with a separate method.
+## Task 3
+- Continued the BankAccount class by adding a Withdraw(double amount) method;
+- Practiced checking that withdrawal amounts must be greater than 0;
+- Practiced checking that withdrawal amounts cannot be bigger than the current balance;
+- Combined deposit and withdrawal logic into one encapsulated class.
+### Conclusion
+Today I practiced encapsulation in a more practical way by hiding fields like age and balance and controlling them through methods.
 
 # DAY 18
 Today I completed 3 console tasks about inheritance.
