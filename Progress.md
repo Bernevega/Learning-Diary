@@ -1,5 +1,49 @@
-### Progress: Day 19 / 365
-### Completion: 5.21%
+### Progress: Day 20 / 365
+### Completion: 5.48%
+
+# DAY 20
+Today I completed 7 console tasks about fields, properties, and methods.
+## Task 1
+- Practiced identifying which class members should be fields, properties, and methods;
+- Classified price, score, and isOpen as private fields;
+- Classified Name, Level, and Age as properties;
+- Classified PrintInto(), TakeDamage(), Jump(), and OpenDoor() as methods.
+## Task 2
+- Practiced creating a class with public fields;
+- Created a Book class with title, author, and pages fields;
+- Added a PrintInfo() method to display the field values;
+- Created and printed two different book objects.
+## Task 3
+- Practiced replacing public fields with public properties;
+- Created a Book2 class with Title, Author, and Pages properties;
+- Added a PrintInfo() method to display the property values;
+- Created and printed two different book objects using properties.
+## Task 4
+- Practiced using private fields with public properties;
+- Created a Movie class with private title and year fields;
+- Added full properties Title and Year with get and set;
+- Added a PrintInfo() method and printed two movie objects.
+## Task 5
+- Practiced combining a private field, public properties, and a method in one class;
+- Created a Student class with a private name field and public Name and Grade properties;
+- Added a PrintInfo() method to print the student's data;
+- Created a student object and displayed its information.
+## Task 6
+- Practiced using methods to change an object's internal state;
+- Created a Lamp class with a private isOn field and a public Brand property;
+- Added TurnOn(), TurnOff(), and ShowState() methods;
+- Tested both lamp states by turning it on and off and printing the result each time.
+## Task 7
+- Practiced designing a more functional class with private data, public properties, and action methods;
+- Created a GameCharacter class with private health and isAlive fields and public Name and ClassType properties;
+- Added TakeDamage(), Heal(), and ShowInfo() methods;
+- Added extra validation for invalid damage and healing amounts;
+- Added extra logic for death, max health, full healing, and preventing healing after death;
+- Tested multiple different cases to make the character behavior more complete.
+### Conclusion
+Today I practiced the difference between fields, properties, and methods by building several classes step by step. 
+I started with simple public fields, then moved to properties, then to the common pattern of private fields with public properties. 
+I also practiced using methods for actions instead of treating everything like plain data.
 
 # DAY 19
 Today I completed 3 console tasks about encapsulation in practice.
