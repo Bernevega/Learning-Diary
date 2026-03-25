@@ -1,5 +1,39 @@
-### Progress: Day 20 / 365
-### Completion: 5.48%
+### Progress: Day 21 / 365
+### Completion: 5.75%
+
+# DAY 21
+Today I completed 5 console tasks about validation inside classes.
+## Task 1
+- Practiced validating data inside a constructor;
+- Created a Person class with Name and Age properties;
+- Made negative ages store as 0;
+- Created and printed three different Person objects, including age 0 and a negative age.
+## Task 2
+- Practiced validating values inside both a constructor and methods;
+- Created a BankAccount class with OwnerName and Balance properties;
+- Made negative starting balance store as 0;
+- Added Deposit() and Withdraw() methods with checks for invalid amounts and withdrawing more than the balance;
+- Tested invalid and valid deposits and withdrawals and printed the account info after each step.
+## Task 3
+- Practiced validating a value range inside a class;
+- Created a Student class with Name and Grade properties;
+- Made grades outside the 0 to 100 range store as 0;
+- Created and printed five different Student objects with valid and invalid grade values.
+## Task 4
+- Practiced validating product data and stock-changing actions inside a class;
+- Created a Product class with Name, Price, and Stock properties;
+- Added constructor validation so negative price and stock store as 0;
+- Added AddStock() and Sell() methods with checks for invalid amounts and selling more than available stock;
+- Tested adding stock and different selling cases, including invalid and valid amounts.
+## Task 5
+- Practiced validating multiple values inside one constructor;
+- Created a UserAccount class with Username and PasswordLength properties;
+- Made invalid usernames store as "Unknown";
+- Made password lengths below 6 store as 6;
+- Created and printed five different UserAccount objects with valid and invalid usernames and password lengths.
+### Conclusion
+Today I practiced putting validation rules inside classes so objects could not store invalid data.
+I used constructors and methods to check values like age, balance, grade, stock, username, and password length before saving or changing them.
 
 # DAY 20
 Today I completed 7 console tasks about fields, properties, and methods.
