@@ -1,5 +1,56 @@
-### Progress: Day 21 / 365
-### Completion: 5.75%
+### Progress: Day 22 / 365
+### Completion: 6.03%
+
+# DAY 22
+Today I completed 9 console tasks about computed properties.
+## Task 1
+- Practiced creating a computed property in a Rectangle class;
+- Added Width and Height properties;
+- Added an Area property that returned Width * Height;
+- Created a rectangle object and printed its width, height, and area.
+## Task 2
+- Practiced creating another computed property in a Rectangle2 class;
+- Added Width and Height properties;
+- Added a Perimeter property that returned the rectangle perimeter;
+- Created an object and printed the perimeter.
+## Task 3
+- Practiced making a computed text property;
+- Created a Person class with FirstName and LastName properties;
+- Added a FullName property that combined the first and last name;
+- Created a person object and printed the full name.
+## Task 4
+- Practiced making a computed bool property;
+- Created a Student class with Name and Score properties;
+- Added an IsPassing property that checked if the score was at least 50;
+- Created a student object and printed the name, score, and passing result.
+## Task 5
+- Practiced making a computed property based on health;
+- Created a GameCharacter class with Name and Health properties;
+- Added an IsDead property that returned true when Health was 0 or less;
+- Created two character objects and printed whether they were dead.
+## Task 6
+- Practiced using a computed property with prices and discounts;
+- Created a Product class with Name, Price, and Discount properties;
+- Added a FinalPrice property that used Price and Discount in a calculation;
+- Created several product objects and printed their price information.
+## Task 7
+- Practiced converting one value into another with a computed property;
+- Created a Temperature class with a Celsius property;
+- Added a Fahrenheit property using the conversion formula;
+- Created an object and printed both Celsius and Fahrenheit.
+## Task 8
+- Practiced creating a computed property from two money-related values;
+- Created a BankAccount class with OwnerName, Balance, and Loan properties;
+- Added a NetWorth property that returned Balance - Loan;
+- Created two account objects and printed their net worth.
+## Task 9
+- Practiced combining multiple computed results in one class;
+- Created a PlayerStats class with Wins and Losses properties;
+- Added a TotalGames property that returned Wins + Losses;
+- Added a WinText property that displayed wins, losses, and total games in one string.
+### Conclusion
+Today I practiced computed properties in many different ways. I learned that a computed property does not store its own separate value, 
+but instead calculates it from other properties whenever it is accessed. I used computed properties for numbers, text, and true or false checks.
 
 # DAY 21
 Today I completed 5 console tasks about validation inside classes.
