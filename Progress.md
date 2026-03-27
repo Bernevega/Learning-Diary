@@ -1,5 +1,56 @@
-### Progress: Day 22 / 365
-### Completion: 6.03%
+### Progress: Day 23 / 365
+### Completion: 6.30%
+
+# DAY 23
+Today I completed 9 console tasks about object references and null in objects.
+## Task 1
+- Practiced creating and using one object;
+- Created a Car class with Brand and Year properties;
+- Created one Car object, assigned values to it, and printed its data.
+## Task 2
+- Practiced assigning one object reference to another variable;
+- Created a Dog class with Name and Age properties;
+- Made dog2 point to the same object as dog1;
+- Changed the values through the second variable and printed both variables to see that they shared the same object.
+## Task 3
+- Practiced comparing two variables that point to the same object;
+- Created a Student class with Name and Grade properties;
+- Added an IsEqual() method that compared two objects with ==;
+- Assigned student2 to student1 and printed that they were equal.
+## Task 4
+- Practiced comparing two separate objects with the same data;
+- Created a Book class with Title and Pages properties;
+- Created two different Book objects and gave them identical values;
+- Compared them with == through an IsEqual() method and printed that they were not equal.
+## Task 5
+- Practiced working with null-related checks in an object;
+- Created a Phone class with Model and Price properties;
+- Added a PrintInfo() method that checked whether Model was null;
+- Printed a message when the model was null, then assigned a model and printed the phone data.
+## Task 6
+- Practiced preventing problems with null object references;
+- Created a Player class with Name and Health properties;
+- Added a PrintInfo() method that checked whether the Player object was null before accessing it;
+- Printed a warning for a null player, then created a real Player object and printed its data.
+## Task 7
+- Practiced changing object data and checking for missing values;
+- Created a Laptop class with Brand and Ram properties;
+- Printed the laptop data through a PrintInfo() method;
+- Set the Brand property to null and printed a message showing that the name did not exist yet.
+## Task 8
+- Practiced using a method with an object parameter and null-related checks;
+- Created a Character class with Name and Level properties;
+- Added a PrintCharacter() method that checked whether the object or its Name was null;
+- Called the method with one Character that had data and one Character whose Name was null.
+## Task 9
+- Practiced combining shared references, comparisons, and null checks;
+- Created an Item class with Name and Value properties;
+- Made item2 point to the same object as item1 and created item3 as a separate object;
+- Compared item1 with item2 and item1 with item3;
+- Changed the Name through item2 and printed item1.Name to confirm the shared reference;
+- Created item4 as null and safely checked it before printing.
+### Conclusion
+Today I practiced how object variables can point to the same object, how separate objects can contain the same data without being equal, and how null affects object usage. I got more comfortable with reference comparison, shared references, and checking for null before accessing object data.
 
 # DAY 22
 Today I completed 9 console tasks about computed properties.
