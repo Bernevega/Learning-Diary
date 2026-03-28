@@ -1,5 +1,24 @@
-### Progress: Day 23 / 365
-### Completion: 6.30%
+### Progress: Day 24 / 365
+### Completion: 6.58%
+
+# DAY 24
+Today I completed 3 console tasks about composition with classes inside classes.
+## Task 1
+- Practiced creating a Book class that contains an Author object;
+- Practiced checking if the author object exists before reading its values;
+- Printed the book title, author name, and author country through composition.
+## Task 2
+- Practiced creating a Phone class that contains a Battery object;
+- Learned that the inner object must be created first before its values can be used;
+- Added validation for battery capacity and percentage and printed the phone information.
+## Task 3
+- Practiced creating an Owner class that contains a Pet object;
+- Practiced checking for null before accessing the pet's name and animal type;
+- Printed a sentence using values from the inner Pet object.
+### Conclusion
+Today I practiced composition by building classes that contain other class objects. 
+I got more comfortable with creating inner objects, assigning them to outer objects, accessing nested values with dot notation, 
+and checking for null in the correct order before using inner object data.
 
 # DAY 23
 Today I completed 9 console tasks about object references and null in objects.
