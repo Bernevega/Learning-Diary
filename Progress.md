@@ -1,5 +1,29 @@
-### Progress: Day 24 / 365
-### Completion: 6.58%
+### Progress: Day 25 / 365
+### Completion: 6.85%
+
+# DAY 25
+Today I completed 6 console tasks about association and dependency between objects.
+## Task 1
+- Practiced explaining composition, association, and dependency in my own words;
+- Wrote real-life examples for each relationship type.
+## Task 2
+- Practiced identifying whether object pairs show composition, association, or dependency;
+- Revised the difference between strong ownership, weaker connection, and temporary use.
+## Task 3
+- Practiced creating an association between objects with Teacher and Student classes;
+- Connected two different Student objects to the same Teacher object.
+## Task 4
+- Continued the Teacher and Student task by printing the student's name, age, teacher's name, and teacher's subject;
+- Added and fixed the null check so the program handles a missing teacher correctly.
+## Task 5
+- Practiced association again with Reader and Book classes;
+- Connected a reader to one book and then reassigned the favorite book to another one.
+## Task 6
+- Practiced dependency with Message and ChatApp classes;
+- Passed a Message object into a method and used it temporarily without storing it inside ChatApp.
+### Conclusion
+Today I learned the difference between composition, association, and dependency more clearly. 
+I practiced both theory and coding tasks, and I correctly used association by storing object references inside other objects and dependency by passing objects into methods only for temporary use.
 
 # DAY 24
 Today I completed 3 console tasks about composition with classes inside classes.
