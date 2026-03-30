@@ -1,5 +1,23 @@
-### Progress: Day 25 / 365
-### Completion: 6.85%
+### Progress: Day 26 / 365
+### Completion: 7.12%
+
+# DAY 26
+Today I completed 4 console tasks about UML-style thinking for C# classes.
+## Task 1
+- Practiced reading a UML-style class and identifying the class name, private members, public members, data members, and methods;
+- Correctly identified most members in the Player class.
+## Task 2
+- Practiced explaining a UML-style class in simple words by describing what data an object stores and what actions it can do;
+- Correctly identified the Lamp class actions, fields, and property.
+## Task 3
+- Practiced converting a written class description into UML-style format;
+- Correctly wrote the Car class structure with properties, a private field, and methods.
+## Task 4
+- Practiced turning a UML-style class into a full C# program with private fields, public properties, a constructor, and a PrintInfo() method;
+- Built the Movie class correctly.
+### Conclusion
+Today I practiced reading UML-style class plans and turning them into actual C# code. 
+I understand the general idea of class boxes, access symbols, data members, and methods much better.
 
 # DAY 25
 Today I completed 6 console tasks about association and dependency between objects.
