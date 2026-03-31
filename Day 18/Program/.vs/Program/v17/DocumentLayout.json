@@ -26,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,7 +40,7 @@
               "RelativeDocumentMoniker": "Task3.cs",
               "ToolTip": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 18\\Program\\Task3.cs",
               "RelativeToolTip": "Task3.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowCAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-22T12:35:55.289Z",
               "EditorCaption": ""
@@ -49,14 +53,10 @@
               "RelativeDocumentMoniker": "Task2.cs",
               "ToolTip": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 18\\Program\\Task2.cs",
               "RelativeToolTip": "Task2.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBcAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-22T12:25:53.206Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
               "$type": "Document",
@@ -68,8 +68,7 @@
               "RelativeToolTip": "Task1.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAcwCcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T18:45:43.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-21T18:45:43.463Z"
             },
             {
               "$type": "Document",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "Main.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T11:05:19.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T11:05:19.553Z"
             }
           ]
         }

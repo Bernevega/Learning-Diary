@@ -1,5 +1,26 @@
-### Progress: Day 26 / 365
-### Completion: 7.12%
+### Progress: Day 27 / 365
+### Completion: 7.40%
+
+# DAY 27
+Today I completed 4 console tasks about refactoring large classes.
+## Task 1
+- Practiced identifying why a class is too large and poorly organized;
+- Found that the class mixed different responsibilities such as car data, driver data, and other unrelated behavior;
+- Explained that low cohesion and too many jobs in one class make the code harder to maintain and expand.
+## Task 2
+- Practiced refactoring a large class by extracting related data into a separate class;
+- Created a Driver class with its own fields and kept car-related data inside the Car class;
+- Connected the objects by storing a Driver object inside Car and printed both car and driver information.
+## Task 3
+- Practiced refactoring a long method into smaller and clearer helper methods;
+- Moved validation into a separate method, moved price calculation into its own method, and kept the final printing logic short;
+- Improved the structure so the class became easier to read, test, and update.
+## Task 4
+- Practiced removing duplicated logic from a class;
+- Replaced repeated temperature validation code with one shared helper method;
+- Kept the output clear for morning, afternoon, and evening while making the code shorter and cleaner.
+### Conclusion
+Today I learned how to recognize when a class is doing too many things and how to improve it by splitting responsibilities, extracting methods, and removing duplication. Refactoring helped me see that cleaner code is not only shorter, but also easier to understand, maintain, and expand later.
 
 # DAY 26
 Today I completed 4 console tasks about UML-style thinking for C# classes.
