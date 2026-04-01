@@ -1,5 +1,24 @@
-### Progress: Day 27 / 365
-### Completion: 7.40%
+### Progress: Day 28 / 365
+### Completion: 7.67%
+
+# DAY 28
+Today I learned how to declare enums.
+## Task 1
+- Created a Season enum and printed one of its named values.
+## Task 2
+- Practiced comparing enum values with if, else if, and else.
+- Used a TrafficLight enum to print different messages for red, yellow, and green.
+## Task 3
+- Practiced using enums together with switch statements.
+- Used DayType to print different messages for weekday and weekend.
+## Task 4
+- Learned how to pass an enum value into a method as a parameter.
+- Used EnemyState in a method and printed different messages depending on the passed state.
+## Task 5
+- Practiced building a slightly fuller program with an enum and matching logic.
+- Used OrderStatus to represent order stages and printed the correct message for each status.
+### Conclusion
+Today I learned that enums are useful when a variable should only store one value from a fixed list of named options. I practiced declaring enums, storing enum values in variables, comparing them with if statements, using them in switch statements, and passing them into methods.
 
 # DAY 27
 Today I completed 4 console tasks about refactoring large classes.
