@@ -1,5 +1,25 @@
-### Progress: Day 28 / 365
-### Completion: 7.67%
+### Progress: Day 29 / 365
+### Completion: 7.95%
+
+# DAY 29
+Today I completed 5 console tasks about structs and value types.
+## Task 1
+- Practiced explaining what value types and structs are in my own words;
+- Learned that structs and enums are value types, while classes are reference types.
+## Task 2
+- Practiced creating a simple struct with fields and assigning values to it;
+- Built a Point struct and used it to store related coordinate data.
+## Task 3
+- Practiced creating a struct with properties, a constructor, and methods;
+- Built a Rectangle struct and used it to calculate and print area information.
+## Task 4
+- Practiced copying a struct and comparing the copied value with the original;
+- Learned that changing one struct copy does not affect the other because structs are copied by value.
+## Task 5
+- Practiced building a struct with validation, a conversion method, and a print method;
+- Built a Temperature struct and learned the difference between returning a value and using a void method.
+### Conclusion
+Today I practiced how structs work in C# and how they differ from classes. I understood much better that structs are value types, which means copying them creates separate data instead of another reference to the same object.
 
 # DAY 28
 Today I learned how to declare enums.
