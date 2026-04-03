@@ -1,5 +1,25 @@
-### Progress: Day 29 / 365
-### Completion: 7.95%
+### Progress: Day 30 / 365
+### Completion: 8.22%
+
+# DAY 30
+Today I learned what records are and how immutability works in C#.
+## Task 1
+- Created a Book record and compared two separate objects with the same values.
+- Learned that records use value equality, so two record objects with the same data can be equal.
+## Task 2
+- Practiced writing a record with a normal body and using init properties.
+- Learned that init allows values to be assigned during object creation, but not changed later like set.
+## Task 3
+- Practiced using the with expression to create a modified copy of a record.
+- Learned that with creates a new object while leaving the original one unchanged.
+## Task 4
+- Compared a record class and a record struct in one program.
+- Learned that a record class is a reference type, while a record struct is a value type with writable positional properties by default.
+## Task 5
+- Practiced using a record that contains an array and printed its data through a separate class.
+- Learned that even if the record itself looks immutable, the array inside it can still be changed, which is called shallow immutability.
+### Conclusion
+Today I learned that records are useful for data-focused types and make it easier to work with value equality and immutable-style design. I practiced creating records, using init-only properties, copying records with with, comparing record class and record struct behavior, and understanding shallow immutability when a record contains mutable reference-type data.
 
 # DAY 29
 Today I completed 5 console tasks about structs and value types.

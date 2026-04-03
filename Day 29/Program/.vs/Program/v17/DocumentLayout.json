@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 29\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|c:\\users\\anna\\desktop\\learning-diary\\day 29\\program\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|solutionrelative:task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|c:\\users\\anna\\desktop\\learning-diary\\day 29\\program\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|c:\\users\\anna\\desktop\\learning-diary\\day 29\\program\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|solutionrelative:task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|c:\\users\\anna\\desktop\\learning-diary\\day 29\\program\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|solutionrelative:task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|c:\\users\\anna\\desktop\\learning-diary\\day 29\\program\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|solutionrelative:task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|c:\\users\\anna\\desktop\\learning-diary\\day 29\\program\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1038192-1146-48AC-B2B4-0A35BF77CA2A}|Program.csproj|c:\\users\\anna\\desktop\\learning-diary\\day 29\\program\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,8 +50,7 @@
               "RelativeToolTip": "Task5.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAmwBYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T10:19:55.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T10:19:55.092Z"
             },
             {
               "$type": "Document",
@@ -67,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Task3.cs",
               "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 29\\Program\\Task3.cs",
               "RelativeDocumentMoniker": "Task3.cs",
@@ -80,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Task2.cs",
               "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 29\\Program\\Task2.cs",
               "RelativeDocumentMoniker": "Task2.cs",
@@ -93,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Task1.cs",
               "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 29\\Program\\Task1.cs",
               "RelativeDocumentMoniker": "Task1.cs",
@@ -106,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Main.cs",
               "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\Learning-Diary\\Day 29\\Program\\Main.cs",
               "RelativeDocumentMoniker": "Main.cs",
@@ -114,8 +113,7 @@
               "RelativeToolTip": "Main.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T11:05:19.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T11:05:19.553Z"
             }
           ]
         }
