@@ -1,5 +1,25 @@
-### Progress: Day 30 / 365
-### Completion: 8.22%
+### Progress: Day 31 / 365
+### Completion: 8.49%
+
+# DAY 31
+Today I learned about object equality, especially the difference between value equality and reference equality in C#.
+## Task 1
+- Practiced comparing simple value types with ==.
+- Used int, double, and bool values to see that value types compare the actual stored values.
+## Task 2
+- Learned that normal class objects compare by reference by default.
+- Created two separate Book objects with the same data and saw that they were still not equal.
+## Task 3
+- Practiced assigning one object variable to another.
+- Learned that when two variables point to the same object, changing one reference affects the same shared object, and equality checks return true.
+## Task 4
+- Practiced struct equality with Equals().
+- Learned that structs are value types, so equality is based on their stored data.
+## Task 5
+- Practiced comparing strings with both == and Equals().
+- Learned that even though string is a reference type, it compares by text content.
+### Conclusion
+Today I learned that equality in C# can mean different things depending on the type. Value types such as int and structs usually compare the data they store, while normal class objects usually compare whether they are the exact same object in memory. I also learned that strings are a special reference type because they compare their text content.
 
 # DAY 30
 Today I learned what records are and how immutability works in C#.
