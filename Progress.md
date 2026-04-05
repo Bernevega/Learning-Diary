@@ -1,5 +1,27 @@
-### Progress: Day 31 / 365
-### Completion: 8.49%
+### Progress: Day 32 / 365
+### Completion: 8.77%
+
+# DAY 32
+Today I learned about ToString(), Equals(), and GetHashCode().
+## Task 1
+- Created a Book class with Title and Author properties.
+- Overrode ToString() to return a readable string representation of the object.
+- Printed the object to see how ToString() works in practice.
+## Task 2
+- Created a Car class and compared two different objects with the same values.
+- Learned that Equals() returns false by default for classes because it compares references, not values.
+## Task 3
+- Overrode Equals() in a Student class to compare object data instead of references.
+- Checked equality between objects with same and different values.
+## Task 4
+- Learned how GetHashCode() works together with Equals().
+- Overrode GetHashCode() using HashCode.Combine().
+- Verified that equal objects produce the same hash code.
+## Task 5
+- Combined ToString(), Equals(), and GetHashCode() in a Movie class.
+- Compared multiple objects and printed their values and hash codes.
+### Conclusion
+Today I learned how objects behave when converted to strings, how equality works by default for reference types, and how to override Equals() to compare actual data. I also understood why GetHashCode() must match Equals() and how all three methods are commonly used together in real applications.
 
 # DAY 31
 Today I learned about object equality, especially the difference between value equality and reference equality in C#.
