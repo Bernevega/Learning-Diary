@@ -1,5 +1,25 @@
-### Progress: Day 32 / 365
-### Completion: 8.77%
+### Progress: Day 33 / 365
+### Completion: 9.04%
+
+# DAY 33
+Today I learned how inheritance works in C# with base classes and derived classes.
+## Task 1
+- Created a base class and a derived class.
+- Practiced inheriting fields and methods from the base class and adding a new method in the derived class.
+## Task 2
+- Practiced extending a base class with extra members in the derived class.
+- Used inherited members together with new fields and methods specific to the derived class.
+## Task 3
+- Learned how protected members work in inheritance.
+- Practiced accessing a protected field from a derived class while keeping it hidden from outside code.
+## Task 4
+- Learned how a derived class can call a base class constructor with base(...).
+- Practiced splitting shared data into the base class and extra data into the derived class.
+## Task 5
+- Practiced building a slightly fuller inheritance example with constructors.
+- Used a derived class to reuse base class data and add its own specific information.
+### Conclusion
+Today I learned that inheritance lets one class build on another class. I practiced creating base and derived classes, using inherited members, working with protected fields, and calling base class constructors with base(...).
 
 # DAY 32
 Today I learned about ToString(), Equals(), and GetHashCode().
