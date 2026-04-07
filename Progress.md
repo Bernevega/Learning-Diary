@@ -1,5 +1,26 @@
-### Progress: Day 33 / 365
-### Completion: 9.04%
+### Progress: Day 34 / 365
+### Completion: 9.32%
+
+# DAY 34
+Today I learned how method overriding works in C# using virtual methods in base classes and override methods in derived classes.
+## Task 1
+- Created a base class Animal with a virtual MakeSound() method.
+- Created a derived class Dog that overrode MakeSound() with its own behavior.
+- Practiced calling methods on both base and derived class objects.
+## Task 2
+- Practiced overriding the same base method in multiple derived classes.
+- Created Vehicle, Car, and Bicycle classes and gave each class its own Move() behavior.
+## Task 3
+- Learned that a base class reference can point to a derived class object.
+- Practiced that when an overridden method is called, the derived version runs based on the real object type.
+## Task 4
+- Learned how to use base.MethodName() inside an overridden method.
+- Created Person and Student classes and called the base version before adding extra derived class behavior.
+## Task 5
+- Practiced overriding the built-in ToString() method.
+- Created a Book class with properties and returned a custom text representation of the object.
+### Conclusion
+Today I learned that overriding allows a derived class to replace a virtual method from a base class with its own version. I practiced creating virtual and override methods, saw how overridden methods behave when using base class references, used base to call the parent version of a method, and overrode ToString() to customize how an object is printed.
 
 # DAY 33
 Today I learned how inheritance works in C# with base classes and derived classes.
