@@ -1,5 +1,30 @@
-### Progress: Day 34 / 365
-### Completion: 9.32%
+### Progress: Day 35 / 365
+### Completion: 9.59%
+
+# DAY 35
+Today I learned how abstract classes and polymorphism work in C#.
+## Task 1
+- Created an abstract Animal class with a Name property and an abstract MakeSound() method.
+- Created a Dog class that inherited from Animal and overrode MakeSound().
+- Practiced that abstract classes cannot be instantiated directly.
+## Task 2
+- Learned that an abstract class can also contain normal methods, not only abstract ones.
+- Added a Sleep() method to Animal and used it with Dog and Cat objects.
+- Practiced overriding abstract methods in multiple derived classes.
+## Task 3
+- Practiced basic polymorphism by storing Dog and Cat objects in Animal variables.
+- Learned that the base type can reference different derived objects.
+- Saw that the correct overridden method is called depending on the real object type.
+## Task 4
+- Created an abstract Shape class with an abstract GetArea() method.
+- Made Rectangle and Circle classes that override GetArea() in their own way.
+- Practiced polymorphism again by assigning Rectangle and Circle objects to Shape variables.
+## Task 5
+- Created an abstract Character class with an abstract Attack() method.
+- Made multiple derived classes with different Attack() behaviors.
+- Used an array of Character and a loop to call Attack() on different object types through one shared base type.
+### Conclusion
+Today I learned that abstract classes are used as base blueprints for related classes and that they can contain both normal members and abstract members. I practiced writing abstract methods, overriding them in derived classes, and using polymorphism so one base type could represent many different child objects.
 
 # DAY 34
 Today I learned how method overriding works in C# using virtual methods in base classes and override methods in derived classes.
