@@ -1,5 +1,30 @@
-### Progress: Day 35 / 365
-### Completion: 9.59%
+### Progress: Day 36 / 365
+### Completion: 9.86%
+
+# DAY 36
+Today I learned how interfaces work in C# and how they are used as contracts.
+## Task 1
+- Created my first interface, IAnimal, with the method Speak().
+- Implemented the interface in the Dog class and printed "Woof!".
+- Practiced that a class must provide the members required by the interface contract.
+## Task 2
+- Created two different classes, Dog and Cat, that both implemented the same IAnimal interface.
+- Practiced how different classes can follow the same contract but have different behavior.
+- Used Speak() in both classes and printed different outputs.
+## Task 3
+- Learned how to use an interface as the variable type instead of the class type.
+- Created an IPlayable reference and assigned it a Song object.
+- Practiced interface-based polymorphism in a simple way.
+## Task 4
+- Learned how to use an interface as a method parameter.
+- Created Document and Photo classes that both implemented IPrintable.
+- Used one StartPrinting(IPrintable item) method to work with different object types through the same contract.
+## Task 5
+- Practiced implementing multiple interfaces in one class.
+- Created a Machine class that implemented both IStartable and IStoppable.
+- Learned that a class can inherit from only one base class, but it can implement multiple interfaces.
+### Conclusion
+Today I learned that interfaces are contracts that define what a class must implement. I practiced creating interfaces, implementing them in classes, using interface references, passing interfaces into methods, and implementing multiple interfaces in one class.
 
 # DAY 35
 Today I learned how abstract classes and polymorphism work in C#.
