@@ -1,5 +1,25 @@
-### Progress: Day 36 / 365
-### Completion: 9.86%
+### Progress: Day 37 / 365
+### Completion: 10.14%
+
+# DAY 37
+Today I learned how to use interfaces in a more practical way to design flexible programs.
+## Task 1
+- Practiced creating an interface and implementing it in different classes.
+- Used Song and Video through the same IPlayable contract.
+## Task 2
+- Practiced passing an interface into a method as a parameter.
+- Used IDamageable so the same method could work with both Player and Enemy.
+## Task 3
+- Practiced storing different classes inside one array by using a shared interface type.
+- Used IPrintable[] to store Book, Movie, and Game objects and call the same method on all of them.
+## Task 4
+- Learned that one class can implement more than one interface.
+- Used Robot with both IMovable and IRechargeable.
+## Task 5
+- Practiced building a small interaction system using an interface.
+- Used IInteractable so Door, Chest, and NPC could all be handled through the same contract.
+### Conclusion
+Today I learned more about interface-based design and how interfaces help make code more flexible. I practiced using interfaces as contracts, passing them into methods, storing different objects in interface arrays, and letting one class implement multiple interfaces.
 
 # DAY 36
 Today I learned how interfaces work in C# and how they are used as contracts.
