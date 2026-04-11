@@ -1,5 +1,28 @@
-### Progress: Day 37 / 365
-### Completion: 10.14%
+### Progress: Day 38 / 365
+### Completion: 10.41%
+
+# DAY 38
+Today I learned the basics of pattern matching in C#.
+## Task 1
+- Practiced using the is keyword with a type pattern.
+- Checked whether an object contained a string and safely used it through a new variable.
+- Printed both the string and its length.
+## Task 2
+- Practiced checking whether an object contained an integer.
+- Used pattern matching to extract the int value and work with it.
+- Printed the number and the number multiplied by 2.
+## Task 3
+- Learned how to use pattern matching with null.
+- Checked whether an object was null and printed different messages depending on the result.
+## Task 4
+- Practiced constant pattern matching with exact values like "start", "stop", and "pause".
+- Used a switch to print the correct message for each command.
+## Task 5
+- Practiced using pattern matching inside a switch statement.
+- Matched values by type such as int, string, bool, and null.
+- Learned how switch pattern matching can describe different kinds of values cleanly.
+### Conclusion
+Today I learned that pattern matching in C# makes it easier to check what a value is and use it safely without manual casting. I practiced matching types with is, checking for null, matching exact constant values, and using switch pattern matching to handle different kinds of inputs.
 
 # DAY 37
 Today I learned how to use interfaces in a more practical way to design flexible programs.
