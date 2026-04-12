@@ -1,5 +1,34 @@
-### Progress: Day 38 / 365
-### Completion: 10.41%
+### Progress: Day 39 / 365
+### Completion: 10.68%
+
+# DAY 39
+Today I learned more advanced pattern matching in C#.
+## Task 1
+- Practiced classifying numeric values with pattern matching;
+- Created a Score method that used relational and logical patterns to print Invalid score, Fail, Pass, Good, or Excellent;
+- Tested the method with five different scores: -10, 30, 68, 85, and 100.
+## Task 2
+- Practiced checking age ranges with pattern matching;
+- Created an AgeChecker method that printed Invalid age, Child, Teen, Adult, or Senior;
+- Also used a not pattern to print whether the person was an adult or not;
+- Tested the method with several different ages.
+## Task 3
+- Practiced using property patterns with objects;
+- Created a Product class with Name, Price, and InStock properties;
+- Wrote a CheckProduct method that matched product properties to print Premium product in stock, Cheap product in stock, Out of stock, or Regular product;
+- Tested the method with four different product objects.
+## Task 4
+- Practiced using nested property patterns;
+- Created Customer and Order classes and stored a customer object inside each order;
+- Wrote a CheckOrder method that matched both the customer's IsPremium value and the order's TotalAmount;
+- Tested four orders that covered premium big, premium small, regular big, and regular small orders.
+## Task 5
+- Practiced tuple pattern matching with two values at once;
+- Created a Point method that used a switch expression on (x, y);
+- Classified points as Origin, On X-axis, On Y-axis, or one of the four quadrants;
+- Tested the method with seven different coordinate pairs.
+### Conclusion
+Today I learned how advanced pattern matching can make condition logic much cleaner and more expressive. I practiced relational patterns, logical patterns with and/or/not, property patterns, nested property patterns, and tuple patterns.
 
 # DAY 38
 Today I learned the basics of pattern matching in C#.
