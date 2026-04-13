@@ -1,5 +1,25 @@
-### Progress: Day 39 / 365
-### Completion: 10.68%
+### Progress: Day 40 / 365
+### Completion: 10.96%
+
+# DAY 40
+Today I learned about runtime errors, validation, and preventing failures.
+## Task 1
+- Practiced telling the difference between compile-time errors, runtime errors, and logic errors.
+- Used small examples to show how each type of problem is different.
+## Task 2
+- Practiced validating number input with int.TryParse.
+- Learned how to safely check whether text can be converted into an integer.
+## Task 3
+- Practiced checking input before doing division.
+- Learned that division should only happen when both values are valid numbers and the second number is not zero.
+## Task 4
+- Practiced working with arrays together with user input.
+- Continued training input validation and storing values safely in an array.
+## Task 5
+- Practiced checking for null before using a string.
+- Learned how to avoid null-related runtime problems by checking a value before accessing its members.
+### Conclusion
+Today I learned that many runtime problems can be prevented before they happen by validating input and checking values carefully. I practiced recognizing different error types, using TryParse for safer number conversion, checking division safety, working with arrays, and handling null values safely.
 
 # DAY 39
 Today I learned more advanced pattern matching in C#.
