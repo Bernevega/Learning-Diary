@@ -1,5 +1,25 @@
-### Progress: Day 40 / 365
-### Completion: 10.96%
+### Progress: Day 41 / 365
+### Completion: 11.23%
+
+# DAY 41
+Today I learned how to use try, catch, and finally to handle runtime errors in C#.
+## Task 1
+- Practiced using a try block with valid code that does not fail.
+- Learned that finally still runs even when no exception happens.
+## Task 2
+- Practiced handling invalid input with a plain catch block.
+- Learned that Parse throws an exception when the text cannot be converted to an integer.
+## Task 3
+- Practiced catching a specific exception type with FormatException.
+- Learned how to react differently to invalid number input while still using finally.
+## Task 4
+- Practiced handling division errors with DivideByZeroException.
+- Learned that the numeric type used in division matters for how divide-by-zero behaves.
+## Task 5
+- Practiced using multiple catch blocks in one try statement.
+- Learned how one block can handle FormatException and another can handle DivideByZeroException.
+### Conclusion
+Today I learned how exception handling works in C# with try, catch, and finally. I practiced writing risky code inside try, handling errors in catch, and using finally for code that should always run. I also learned the difference between handling general errors and specific exception types, and I got more practice with parsing input and safe division logic.
 
 # DAY 40
 Today I learned about runtime errors, validation, and preventing failures.
