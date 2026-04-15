@@ -1,5 +1,27 @@
-### Progress: Day 41 / 365
-### Completion: 11.23%
+### Progress: Day 42 / 365
+### Completion: 11.51%
+
+# DAY 42
+Today I learned how to throw exceptions manually, how to use guard clauses to stop invalid input early, and how to create custom exception classes for program-specific errors.
+## Task 1
+- Practiced using throw to stop execution when a temperature value was outside the allowed range.
+- Used ArgumentOutOfRangeException to report invalid temperature input.
+## Task 2
+- Practiced writing a guard clause at the start of a method.
+- Used DivideByZeroException to prevent division by zero and caught it with try-catch.
+## Task 3
+- Practiced validating method parameters with guard clauses.
+- Used ArgumentNullException, ArgumentException, and ArgumentOutOfRangeException for different invalid inputs.
+- Learned that if multiple test calls are inside one try block, execution stops at the first thrown exception, so later test cases do not run.
+## Task 4
+- Created my first custom exception class, InvalidScoreException.
+- Practiced throwing and catching a custom exception when a score was below 0.
+## Task 5
+- Built a small BankAccount program with a Balance property, constructor, and Withdraw method.
+- Used ArgumentOutOfRangeException for invalid withdrawal amounts and a custom InsufficientFundsException when trying to withdraw more than the balance.
+- Learned that to fully test both exception types, each invalid case should be triggered separately.
+### Conclusion
+Today I learned that throw is used to signal errors manually, while guard clauses help check bad input immediately at the start of a method. I practiced using built-in exceptions when they already matched the problem and creating custom exceptions when the error was specific to my own program.
 
 # DAY 41
 Today I learned how to use try, catch, and finally to handle runtime errors in C#.
