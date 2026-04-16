@@ -1,5 +1,25 @@
-### Progress: Day 42 / 365
-### Completion: 11.51%
+### Progress: Day 43 / 365
+### Completion: 11.78%
+
+# DAY 43
+Today I learned how defensive programming helps protect programs from invalid input, bad values, and incorrect method usage.
+## Task 1
+- Practiced validating input in a method by checking whether a username was null, empty, or too short.
+- Used early returns to safely reject invalid values.
+## Task 2
+- Practiced protecting an object's state by only allowing valid prices to be stored.
+- Learned that a class should prevent invalid data from entering it.
+## Task 3
+- Practiced using TryParse to safely read user input without crashing the program.
+- Checked for invalid number input and prevented division by zero before doing the calculation.
+## Task 4
+- Practiced using a guard clause with ArgumentOutOfRangeException to reject an invalid deposit amount.
+- Learned how exceptions can stop incorrect method usage immediately.
+## Task 5
+- Practiced checking object state before allowing an action to happen.
+- Learned to throw InvalidOperationException when a method is called in the wrong order.
+### Conclusion
+Today I learned that defensive programming means checking values before using them and protecting code from invalid input or incorrect usage. I practiced validating usernames, preventing invalid prices from being stored in an object, safely parsing user input with TryParse, checking for division by zero, using guard clauses with exceptions, and making sure methods are only called when an object is in the correct state.
 
 # DAY 42
 Today I learned how to throw exceptions manually, how to use guard clauses to stop invalid input early, and how to create custom exception classes for program-specific errors.
