@@ -1,5 +1,25 @@
-### Progress: Day 43 / 365
-### Completion: 11.78%
+### Progress: Day 44 / 365
+### Completion: 12.05%
+
+# DAY 44
+Today I learned how to use breakpoints and watches for debugging in Visual Studio.
+## Task 1
+- Practiced setting a breakpoint on a calculation line.
+- Learned how to pause the program before a line executes and inspect variable values.
+## Task 2
+- Practiced using the Watch window to manually track variables and expressions.
+- Observed how values change step by step while moving through the code.
+## Task 3
+- Learned the difference between Step Into, Step Over, and Step Out.
+- Practiced entering a method during debugging and returning back to the calling method.
+## Task 4
+- Used debugging to find a logic mistake in a calculation.
+- Learned that debugging helps find wrong program behavior even when the code does not crash.
+## Task 5
+- Practiced debugging inside a loop.
+- Watched how loop variables and totals changed during each iteration.
+### Conclusion
+Today I learned that debugging is a very important skill because it helps me see what my program is doing while it runs, not just the final output. I practiced setting breakpoints, pausing execution, inspecting variable values, using the Watch window, and stepping through code line by line. I also learned the difference between Step Into, Step Over, and Step Out, and saw how debugging can help find both logic mistakes and unexpected values inside loops and methods.
 
 # DAY 43
 Today I learned how defensive programming helps protect programs from invalid input, bad values, and incorrect method usage.
