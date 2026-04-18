@@ -1,5 +1,25 @@
-### Progress: Day 44 / 365
-### Completion: 12.05%
+### Progress: Day 45 / 365
+### Completion: 12.33%
+
+# DAY 45
+Today I learned how to read compiler errors and stack traces more calmly and more systematically.
+## Task 1
+- Fixed a syntax error and a naming error.
+- Practiced reading compiler messages to find a missing semicolon and a misspelled variable name.
+## Task 2
+- Fixed multiple compiler errors one by one.
+- Practiced understanding argument type mismatches and missing punctuation instead of trying to guess blindly.
+## Task 3
+- Fixed a type mismatch and a wrongly written method name.
+- Practiced paying attention to exact method names, capitalization, and correct variable types.
+## Task 4
+- Practiced reading a runtime error instead of a compiler error.
+- Used a try-catch block to handle division by zero so the program would not crash.
+## Task 5
+- Practiced understanding how method calls lead to the real source of an exception.
+- Fixed the invalid array index so the correct player name could be loaded safely.
+### Conclusion
+Today I learned the difference between compiler errors and runtime errors. I practiced reading error messages more carefully, using line numbers, understanding type mismatch and naming problems, and following stack traces to find where an exception really starts.
 
 # DAY 44
 Today I learned how to use breakpoints and watches for debugging in Visual Studio.
