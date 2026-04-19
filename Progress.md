@@ -1,5 +1,25 @@
-### Progress: Day 45 / 365
-### Completion: 12.33%
+### Progress: Day 46 / 365
+### Completion: 12.6%
+
+# DAY 46
+Today I learned what unit testing is and how to create my first automated tests in C# with MSTest.
+## Task 1
+- Created a Class Library project for the real code and an MSTest project for the tests.
+- Added the project reference and wrote my first unit test to check that Add(2, 3) returns 5.
+## Task 2
+- Practiced writing multiple tests for the same method with different inputs.
+- Used Assert.AreEqual to verify that the Add method returned the expected values.
+## Task 3
+- Practiced testing a method that returns true or false.
+- Used Assert.IsTrue and Assert.IsFalse to test whether numbers were even correctly.
+## Task 4
+- Practiced testing both a normal return value and an exception.
+- Verified that Divide(10, 2) returns 5 and that dividing by zero throws DivideByZeroException.
+## Task 5
+- Practiced testing a rule-based grading method with several different score ranges.
+- Verified that the correct grade was returned for different inputs like A, B, C, and F cases.
+### Conclusion
+Today I learned the basics of unit testing in C#. I learned that a unit test is a small automated check for one specific piece of logic, and that tests are written separately from the main code in a test project. I practiced using MSTest attributes like [TestClass] and [TestMethod], and I used assertions such as Assert.AreEqual, Assert.IsTrue, Assert.IsFalse, and Assert.ThrowsException.
 
 # DAY 45
 Today I learned how to read compiler errors and stack traces more calmly and more systematically.

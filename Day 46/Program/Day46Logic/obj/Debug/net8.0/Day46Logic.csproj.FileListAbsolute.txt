@@ -1,0 +1,12 @@
+C:\Users\Anna\Desktop\Learning-Diary\Day 46\Program\Day46Logic\bin\Debug\net8.0\Day46Logic.deps.json
+C:\Users\Anna\Desktop\Learning-Diary\Day 46\Program\Day46Logic\bin\Debug\net8.0\Day46Logic.dll
+C:\Users\Anna\Desktop\Learning-Diary\Day 46\Program\Day46Logic\bin\Debug\net8.0\Day46Logic.pdb
+C:\Users\Anna\Desktop\Learning-Diary\Day 46\Program\Day46Logic\obj\Debug\net8.0\Day46Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\Learning-Diary\Day 46\Program\Day46Logic\obj\Debug\net8.0\Day46Logic.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Learning-Diary\Day 46\Program\Day46Logic\obj\Debug\net8.0\Day46Logic.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Learning-Diary\Day 46\Program\Day46Logic\obj\Debug\net8.0\Day46Logic.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Learning-Diary\Day 46\Program\Day46Logic\obj\Debug\net8.0\Day46Logic.sourcelink.json
+C:\Users\Anna\Desktop\Learning-Diary\Day 46\Program\Day46Logic\obj\Debug\net8.0\Day46Logic.dll
+C:\Users\Anna\Desktop\Learning-Diary\Day 46\Program\Day46Logic\obj\Debug\net8.0\refint\Day46Logic.dll
+C:\Users\Anna\Desktop\Learning-Diary\Day 46\Program\Day46Logic\obj\Debug\net8.0\Day46Logic.pdb
+C:\Users\Anna\Desktop\Learning-Diary\Day 46\Program\Day46Logic\obj\Debug\net8.0\ref\Day46Logic.dll
